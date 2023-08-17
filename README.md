@@ -1,5 +1,5 @@
 # grazielafs.github.io
-# #Minha Historia
+# Minha Historia
 *Olá me chamo Graziela,tenho 25 anos, ao longo da vida já fui vendedora, comerciante, faxineira, aprendi a me virar dez de cedo, sempre corri atrás de não ficar parada, me formei no ensino médio e em técnico de administração, fiz estagio na área administrativa e atualmente trabalho nessa área em empresa privativa como secretaria.*
 
 
