@@ -10,7 +10,7 @@
   * Make docs consistent with code (#657)
   * Highlight that the base branch is v3 (#719)
 
-### Minor Enhancements
+`### Minor Enhancements`
 
   * Add Keybase to social links (#400)
   * Solarized skins (#404)
